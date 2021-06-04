@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ideaCxfTest:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ideaCxfTest_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ideaCxfTest/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ideaCxfTest" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
